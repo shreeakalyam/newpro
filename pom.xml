@@ -8,7 +8,8 @@
     <artifactId>mall</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-hai
+hello
+
     <modules>
         <module>mall-common</module>
         <module>mall-mbg</module>
